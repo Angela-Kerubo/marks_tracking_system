@@ -30,6 +30,10 @@ This system solves that by automatically detecting missing marks, sending instan
 - Email and SMS notifications
 - Semester-end performance analytics
 
+<img width="1879" height="951" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/f12e8b25-aa10-4fff-9e13-c6791f9204fe" />
+<img width="1879" height="951" alt="Screenshot (17)" src="https://github.com/user-attachments/assets/bea67e8a-4d55-495a-905c-694723ec26b4" />
+<img width="1879" height="951" alt="Screenshot (18)" src="https://github.com/user-attachments/assets/47a4e57d-ae00-4d43-bcca-238778e0ee6d" />
+
 ## 3. Tech Used
 
 | Category | Technology |
